@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">איקס עיגול</string>
+    <string name="Player1">"שחקן 1: "</string>
+    <string name="Player2">"שחקן 2: "</string>
+</resources>
